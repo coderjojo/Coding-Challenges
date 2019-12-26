@@ -5,3 +5,6 @@ Resources:
 3. https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717
 4. https://discuss.codechef.com/t/data-structures-and-algorithms/6599
 5. https://github.com/lnishan/awesome-competitive-programming
+6. C++ tricks: https://codeforces.com/blog/entry/15643
+7. CF: https://codeforces.com/blog/entry/57282
+8. ADS: https://codeforces.com/blog/entry/15729
