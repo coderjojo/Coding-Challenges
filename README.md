@@ -8,3 +8,6 @@ Resources:
 6. C++ tricks: https://codeforces.com/blog/entry/15643
 7. CF: https://codeforces.com/blog/entry/57282
 8. ADS: https://codeforces.com/blog/entry/15729
+9. Number Theory: https://www.hackerearth.com/practice/notes/number-theory-1/
+                  https://artofproblemsolving.com/community/c90633h1291397
+
