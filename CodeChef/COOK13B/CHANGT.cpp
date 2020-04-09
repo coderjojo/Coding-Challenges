@@ -22,6 +22,7 @@ int main()
 
 			sort(freq, freq+101);
 			cout<<n-freq[100]<<endl;
+			
 		}
 
 	return 0;
