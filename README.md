@@ -10,4 +10,5 @@ Resources:
 8. ADS: https://codeforces.com/blog/entry/15729
 9. Number Theory: https://www.hackerearth.com/practice/notes/number-theory-1/
                   https://artofproblemsolving.com/community/c90633h1291397
+10. DP and Bit Masking: https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
 
